@@ -1,14 +1,10 @@
 {
 
     "manifest_version": 2,
-    "name": "AMuS Unblock2",
-    "version": "0.1",
+    "name": "unBlockAMS",
+    "version": "2.0",
   
-    "description": "Adds a red border to all webpages matching mozilla.org.",
-  
-    "icons": {
-      "48": "icons/border-48.png"
-    },
+    "description": "Entfernt leider nicht mehr die Paywall von http://www.auto-motor-und-sport.de/ An dieser Stelle viele Grüße an Von Affenfels GmbH, welche mich sogar mit einem Update gewürdigt haben :) marmCatcher und Star Wars- i'm not even mad! :)",
   
     "content_scripts": [
       {
