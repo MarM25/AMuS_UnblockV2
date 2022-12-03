@@ -1,0 +1,21 @@
+{
+
+    "manifest_version": 2,
+    "name": "AMuS Unblock2",
+    "version": "0.1",
+  
+    "description": "Adds a red border to all webpages matching mozilla.org.",
+  
+    "icons": {
+      "48": "icons/border-48.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.auto-motor-und-sport.de/*"],
+        "js": ["unblock.js"]
+      }
+    ]
+  
+  }
+  
