@@ -1,6 +1,3 @@
-//alert("PENIS");
-
-
 var tpl_header = ''
 
 function remove_paywall(){
@@ -31,11 +28,7 @@ function remove_paywall(){
     div3.appendChild(div4);
     div2.appendChild(div3);
     div1.appendChild(div2);
-    //
-    //// An das Ziel-Element anhängen
     document.getElementById("maincol_article").appendChild(div1);
-    //////document.querySelectorAll(".articleBody").forEach(el => el.remove());
-
 }
 
 function kick_it(){
