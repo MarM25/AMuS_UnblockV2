@@ -1,0 +1,1 @@
+This is a Web Extension for Mozilla Firefox, which removes the Paywall from german automobile-news-page Auto Motor und Sport. Its more a quick a quick-and-dirty approach and i'm not a masterclass Javascript Developer, so for sure a lot of potential to improve. But it works. :)
